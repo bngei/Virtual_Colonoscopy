@@ -1,6 +1,6 @@
 # Virtual Colonoscopy
 Final Project
-#### Students:
+### Students:
  - Benjamin Truong
  - Yahya Ghazanfar
  - Jannatun Zaman
