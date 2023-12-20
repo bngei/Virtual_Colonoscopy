@@ -1,4 +1,4 @@
-# Virtual Colonoscopy
+# CT Scan Simulation
 ### Students:
  - Benjamin Truong
  - Yahya Ghazanfar
